@@ -1,0 +1,11 @@
+.idea
+build/
+commons.egg-info/
+.venv/
+dist/
+__pycache__/
+py_commons_per.egg-info/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
